@@ -1,0 +1,18 @@
+.box1 img {
+	opacity: 0.7;
+	border: 4px dotted pink;
+}
+
+.box2 img {
+	border: 4px dotted orange;
+}
+
+.tudo {
+	display: inline-flex;
+	text-align: center;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
